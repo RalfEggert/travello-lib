@@ -1,16 +1,16 @@
 <?php
 /**
- * elmado
+ * TravelloLib
  * 
- * @package    Application
+ * @package    TravelloLib
  * @author     Ralf Eggert <r.eggert@travello.de>
  * @copyright  Copyright (c) 2012 Travello GmbH
  */
 
 /**
- * Module application configuration
+ * TravelloLib configuration
  * 
- * @package    Application
+ * @package    TravelloLib
  * @author     Ralf Eggert <r.eggert@travello.de>
  * @copyright  Copyright (c) 2012 Travello GmbH
  */
